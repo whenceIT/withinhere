@@ -29,3 +29,6 @@ export default [
       "Withinhere has an in-app messaging system which enables sellers and buyers to chat over more product details, discounts or any necessary information which can help both parties to make more informed decisions for mutual benefit.",
   },
 ];
+
+
+
